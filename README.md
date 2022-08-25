@@ -1,6 +1,6 @@
 # Olá, Mundo!
  Primeiro repositório Git e Github
 
- Primeiro repositório criado
+ Primeiro repositório criado assistindo o Curso em Vídeo
  
- Essa linha e adicionei diretamente no site, que louco.
+ Essa linha adicionei diretamente no site, que louco.
